@@ -1,0 +1,64 @@
+DOMAIN-SUFFIX,m-team.io,"✈️ 节点选择"
+DOMAIN-SUFFIX,dmm.co.jp,"✈️ 节点选择"
+DOMAIN-SUFFIX,dooo.ng,"✈️ 节点选择"
+DOMAIN-SUFFIX,m-team.io,"✈️ 节点选择"
+DOMAIN-SUFFIX,m-team.cc,"✈️ 节点选择"
+DOMAIN,voyeur-house.tv,"✈️ 节点选择" // Added for: voyeur-house.tv:443
+DOMAIN-SUFFIX,voyeur-house.tv,"✈️ 节点选择"
+DOMAIN-SUFFIX,stripchat.com,"✈️ 节点选择"
+DOMAIN-SUFFIX,hungary-budapest.com,"🌐 全球直连"
+DOMAIN-SUFFIX,hokkaido-toyoni.com,DIRECT // kitty
+DOMAIN-SUFFIX,iconify.design,"🌐 全球直连"
+PROCESS-NAME,"/Applications/Epic Games Launcher.app/Contents/MacOS/EpicGamesLauncher-Mac-Shipping","🌐 全球直连"
+DOMAIN-SUFFIX,unrealengine.com,"🌐 全球直连"
+DOMAIN-SUFFIX,fastly-edge.com,"🌐 全球直连"
+PROCESS-NAME,"/Applications/Epic Games Launcher.app/Contents/MacOS/EpicGamesLauncher-Mac-Shipping","🌐 全球直连"
+PROCESS-NAME,"/Applications/Epic Games Launcher.app/Contents/MacOS/EpicGamesLauncher-Mac-Shipping","🌐 全球直连"
+DOMAIN-SUFFIX,m-team,"✈️ 节点选择"
+DOMAIN-SUFFIX,dssott.com,"🎬 迪士尼+" // Added for: vod-hulu-akc-na.media.dssott.com:443
+DOMAIN-SUFFIX,dssott.com,"🍿 国外媒体" // Added for: vod-hulu-akc-na.media.dssott.com:443
+DOMAIN-SUFFIX,ntu.edu.tw,"🇨🇳 台湾节点"
+DOMAIN-SUFFIX,xboxlive.com,"Ⓜ️ 微软服务",extended-matching
+DOMAIN-SUFFIX,meituan.net,DIRECT // Added for: al-log.d.meituan.net:443
+DOMAIN-SUFFIX,gog-statics.com,"✈️ 节点选择"
+DOMAIN-SUFFIX,shuangmeimelody.com,DIRECT
+DOMAIN-SUFFIX,pcvps.net,DIRECT
+PROCESS-NAME,/Applications/lghub.app/,"✈️ 节点选择"
+DOMAIN-SUFFIX,zhpengfei.com,"✈️ 节点选择"
+DOMAIN-SUFFIX,zhpengfei.com,DIRECT
+DOMAIN-SUFFIX,onlyfans.com,"✈️ 节点选择"
+# IP-CIDR,38.60.91.32/32,DIRECT,no-resolve
+# IP-CIDR,13.213.204.63/32,DIRECT,no-resolve
+DOMAIN-SUFFIX,fanart.tv,"✈️ 节点选择"
+DOMAIN-SUFFIX,tyedu.fun,DIRECT
+DOMAIN-SUFFIX,daliziqielili.su,🇺🇸花云美国
+DOMAIN-SUFFIX,ciallo.party,🇺🇸花云美国
+DOMAIN-SUFFIX,pcmhub.org,🇺🇸花云美国
+DOMAIN-SUFFIX,ciallo.party,🇭🇰HK-bestvm
+DOMAIN-SUFFIX,pcmhub.org,"🌐 全球直连"
+DOMAIN,kod.tyedu.fun,DIRECT // Added for: kod.tyedu.fun:5566
+DOMAIN-SUFFIX,pcmhub.org,"🇸🇬 新加坡节点"
+DOMAIN-SUFFIX,feiniu.lol,肥牛emby
+DOMAIN-SUFFIX,daliziqielili.su,"🇸🇬 新加坡节点"
+DOMAIN-SUFFIX,api.aws,"✈️ 节点选择"
+DOMAIN,ip-api.com,"✈️ 节点选择" // Added for: http://ip-api.com/json/198.19.37.153?lang=zh-CN
+# PROCESS-NAME,/Applications/Infuse.app/Contents/MacOS/Infuse,"✈️ 节点选择"
+DOMAIN-SUFFIX,dioco.io,"✈️ 节点选择"
+DOMAIN-SUFFIX,whatsapp.net,🇺🇸Zgo-LA-snell
+DOMAIN-SUFFIX,logitech.com,"🌐 全球直连"
+DOMAIN-SUFFIX,logitechg.com.cn,"🌐 全球直连"
+DOMAIN-SUFFIX,sentry.io,"✈️ 节点选择"
+DOMAIN-SUFFIX,logitech.io,"✈️ 节点选择"
+DOMAIN-KEYWORD,duolingo,DIRECT
+DOMAIN-SUFFIX,samsungconnectivity.com,"✈️ 节点选择"
+DOMAIN-KEYWORD,webike,"✈️ 节点选择"
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram,"📲 电报信息"
+IP-CIDR,172.217.163.42/32,"✈️ 节点选择",no-resolve
+IP-CIDR,172.217.160.106/32,"✈️ 节点选择",no-resolve
+IP-CIDR,91.108.56.100/32,"📲 电报信息",no-resolve
+IP-CIDR,149.154.167.255/32,"📲 电报信息",no-resolve
+IP-CIDR,149.154.175.53/32,"📲 电报信息",no-resolve
+IP-CIDR,149.154.162.123/32,"📲 电报信息",no-resolve
+DOMAIN-SUFFIX,live.net,"Ⓜ️ 微软服务"
+DOMAIN-SUFFIX,amazon.com,"✈️ 节点选择"
+DOMAIN-SUFFIX,arbookfind.com,DIRECT
