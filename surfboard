@@ -1,0 +1,41 @@
+DOMAIN-SUFFIX,corecoding.com,"🌐 全球直连"
+DOMAIN-SUFFIX,gh-proxy.com,"🌐 全球直连"
+IP-CIDR,168.107.58.5/32,"🌐 全球直连"
+DOMAIN-SUFFIX,livedoor.com,节点选择
+DOMAIN-SUFFIX,yfamilys.com,节点选择
+DOMAIN-SUFFIX,whatshub.top,节点选择
+DOMAIN-SUFFIX,heheda.top,"🌐 全球直连"
+DOMAIN-SUFFIX,ubisoft.com,节点选择
+DOMAIN-SUFFIX,luchibb.com,节点选择
+DOMAIN-SUFFIX,vegslb.com,国内媒体
+DOMAIN-SUFFIX,idouyinvod.com,国内媒体
+DOMAIN-SUFFIX,pstorage.space,节点选择
+DOMAIN-SUFFIX,ibb.co,节点选择
+DOMAIN-SUFFIX,imagetwist.com,节点选择
+DOMAIN-SUFFIX,m-team.cc,节点选择
+DOMAIN-SUFFIX,m-team.co,节点选择
+DOMAIN-SUFFIX,imgbox.com,节点选择
+DOMAIN-SUFFIX,pixhost.to,节点选择
+DOMAIN-SUFFIX,ymawv.la,节点选择
+DOMAIN-SUFFIX,pterclub.net,节点选择
+# > 广告拦截/隐私保护/病毒拦截/钓鱼和诈骗域名拦截（默认禁用）
+# AND,((PROTOCOL,UDP), (DEST-PORT,443)),REJECT-NO-DROP
+DOMAIN-SUFFIX,ip.net.coffee,节点选择
+DOMAIN-SUFFIX,dnsleaktest.com,节点选择
+DOMAIN-SUFFIX,cdn-zlib.sk,节点选择
+DOMAIN-SUFFIX,myip.com,节点选择
+DOMAIN-SUFFIX,samsungmobile.com,节点选择
+DOMAIN-SUFFIX,samqaicongen.com,节点选择
+DOMAIN-SUFFIX,samsungconsent.com,节点选择
+DOMAIN-SUFFIX,samsungmembers.com,节点选择
+DOMAIN-SUFFIX,samsungdive.com,节点选择
+DOMAIN-SUFFIX,samsungcloudcn.com,节点选择
+DOMAIN-SUFFIX,samsungconnectivity.com,节点选择
+DOMAIN-SUFFIX,samsungosp.com,节点选择
+DOMAIN-SUFFIX,dmit.io,美国节点
+DOMAIN-SUFFIX,ntu.edu.tw,台湾节点
+DOMAIN-SUFFIX,shuangmeimelody.com,DIRECT
+DOMAIN-SUFFIX,tyedu.fun,DIRECT
+DOMAIN-KEYWORD,duolingo,DIRECT
+DOMAIN-SUFFIX,nodeseek.com,节点选择
+DOMAIN-KEYWORD,facebook,节点选择
